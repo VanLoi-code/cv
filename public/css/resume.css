@@ -25,6 +25,14 @@ section.resume-section {
     max-width: 75rem;
 }
 
+.text-primary {
+  color: #079992 !important;
+}
+
+.text-primary:hover {
+  color: #fa983a !important;
+}
+
 a {
     color: #079992;
 }
